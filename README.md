@@ -9,6 +9,8 @@
 - ⚡ Fun fact: I like singing when I'm alone and I'm terrible at it
 - 📫 You can email me on wenslausnkachasu@gmail.com
 
+# Wenslaus Contribution Graph ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wenslauskc&theme=react-dark&hide_border=true)
+
 ### 😃 Hey's lets connect 👇:
 
 [![website](./img/twitter-light.svg)](https://twitter.com/wenslauskachasu#gh-light-mode-only)
@@ -19,8 +21,6 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/wenslausnkachasu#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/wenslausnkachasu#gh-dark-mode-only)
-
-# replace username with your own or change theme ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wenslauskc&theme=dracula&hide_border=true)
 
 ### Languages and Tools:
 
