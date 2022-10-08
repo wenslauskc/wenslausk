@@ -1,11 +1,11 @@
 # Hi there, I'm Wenslaus Kachasu 👋
 
-## I'm a Software Developer and a Learner in life!!
+## I'm a Full Stack Developer and a Learner in life!!
 
 - 😃 Hey welcome once again to my tiny little world
-- 🌱 I’m currently learning skills to be a full-stack developer
+- 🌱 I’m a full-stack developer
 - 👯 I’m looking to collaborate with other developers
-- 🥅 Goals: Learn more and collaborate with amazing tech geeks
+- 🥅 Goal: To keep on learning in life
 - ⚡ Fun fact: I like singing when I'm alone and I'm terrible at it
 - 📫 You can email me on wenslausnkachasu@gmail.com
 
@@ -19,6 +19,8 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/wenslausnkachasu#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/wenslausnkachasu#gh-dark-mode-only)
+
+# replace username with your own or change theme ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wenslauskc&theme=dracula&hide_border=true)
 
 ### Languages and Tools:
 
