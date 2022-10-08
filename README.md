@@ -12,13 +12,13 @@
 ### 😃 Hey's lets connect 👇:
 
 [![website](./img/twitter-light.svg)](https://twitter.com/wenslauskachasu#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/wenslauskachasu#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/wenslauskachasu#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/mwlite/in/wenslaus-kachasu-094a3b1a0#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/mwlite/in/wenslaus-kachasu-094a3b1a0#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/mwlite/in/wenslaus-kachasu-094a3b1a0#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/wenslausnkachasu#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/wenslausnkachasu#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/wenslausnkachasu#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -38,7 +38,8 @@
 <br />
 <br />
 
-## Stats📈 <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=wenslauskc&show_icons=true&theme=react-dark&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="wenslauskc" />  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=wenslauskc&show_icons=true&theme=react-dark&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="wenslauskc" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wenslauskc&theme=react-dark&hide_border=true" alt="wenslauskc" /> </p>
+### Stats📈 
+<p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=wenslauskc&show_icons=true&theme=react-dark&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="wenslauskc" />  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=wenslauskc&show_icons=true&theme=react-dark&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="wenslauskc" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wenslauskc&theme=highcontrast&hide_border=true" alt="wenslauskc" /> </p>
 
 [twitter]: https://twitter.com/wenslauskachasu
 [instagram]: https://instagram.com/wenslausnkachasu
