@@ -2,7 +2,7 @@
 
 - 😃 Hey welcome once again to my tiny little world
 - 🌱 I’m a Frontend Developer developer
-- 👯 I’m looking to collaborate with other developers and learn more
+- 👯 Looking forward to network and collaborate with other developers
 - 🥅 Goal: To be good at what I do and be an inspiration to many
 - 📫 You can email me on wenslausnkachasu@gmail.com
 
