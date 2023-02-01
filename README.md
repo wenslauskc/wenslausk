@@ -1,10 +1,9 @@
 # Hi there, I'm Wenslaus Kachasu 👋
 
 - 😃 Hey welcome once again to my tiny little world
-- 🌱 I’m a full-stack developer
-- 👯 I’m looking to collaborate with other developers
-- 🥅 Goal: To keep on learning in life
-- ⚡ Fun fact: I like singing when I'm alone and I'm terrible at it
+- 🌱 I’m a Frontend Developer developer
+- 👯 I’m looking to collaborate with other developers and learn more
+- 🥅 Goal: To be good at what I do and be an inspiration to many
 - 📫 You can email me on wenslausnkachasu@gmail.com
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wenslauskc&theme=react-dark&hide_border=true)
