@@ -1,6 +1,5 @@
 # Hi there, I'm Wenslaus Kachasu 👋
 
-- 😃 Welcome once again to my tiny little world
 - 🌱 I’m a Frontend Developer developer
 - 👯 Looking forward to network and collaborate with other developers
 - 🥅 Goal: To be good at what I do and be an inspiration to many
