@@ -5,7 +5,7 @@
 - 🥅 Goal: To be good at what I do and be an inspiration to many
 - 📫 You can email me on wenslausnkachasu@gmail.com
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wenslauskc&theme=react-dark&hide_border=true)
+![GitHub Activity Graph](https://github-readme-actvity-graph.cyclic.app/graph?username=wenslauskc&theme=react-dark&hide_border=true)
 
 ### Connect with me 👇:
 
