@@ -1,6 +1,6 @@
 # Hi there, I'm Wenslaus Kachasu 👋
 
-- 🌱 I’m a Frontend Developer developer
+- 🌱 I’m a Frontend Developer
 - 👯 Looking forward to network and collaborate with other developers
 - 🥅 Goal: To be good at what I do and be an inspiration to many
 - 📫 You can email me on wenslausnkachasu@gmail.com
