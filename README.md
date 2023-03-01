@@ -12,8 +12,7 @@
 
 ### Connect with me 👇:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/wenslauskachasu#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/wenslauskachasu#gh-dark-mode-only)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/wenslauskachasu)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/wenslaus-kachasu-094a3b1a0#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/wenslaus-kachasu-094a3b1a0#gh-dark-mode-only)
