@@ -14,11 +14,9 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/wenslauskachasu)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/wenslaus-kachasu-094a3b1a0#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/wenslaus-kachasu-094a3b1a0#gh-dark-mode-only)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wenslaus-kachasu-094a3b1a0)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/wenslausnkachasu#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/wenslausnkachasu#gh-dark-mode-only)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/wenslausnkachasu)
 
 ### Languages and Tools ✍️:
 
